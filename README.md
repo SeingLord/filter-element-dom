@@ -1,4 +1,4 @@
-# Teste prático - processo seletivo IDGeo
+# Teste prático
 
 ## Introdução
 
