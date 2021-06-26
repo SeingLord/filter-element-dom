@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Parabéns, candidata(o)! Neste passo do processo seletivo, temos um pequeno teste prático para você botar a mão na massa. Os objetivos do teste serão descritos abaixo, assim como uma breve descrição do seu conteúdo.
+Parabéns, temos um pequeno teste prático para você botar a mão na massa. Os objetivos do teste serão descritos abaixo, assim como uma breve descrição do seu conteúdo.
 
 ### Informações preliminares
 
