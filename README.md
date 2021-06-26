@@ -39,7 +39,3 @@ Seu objetivo é completar as funções de clique para que executem os filtros co
 ### Objetivo 4 OK
 
 Como bem sabemos, um mesmo problema pode ser resolvido de diversas formas diferentes. Por isso, o quarto e último objetivo é **criar um arquivo `REPORT.md` na raiz do projeto e escrever brevemente qual foi a linha de raciocínio que você seguiu para resolver o Objetivo 3**.
-
-## Entregando o seu Teste
-
-Para entregar o seu teste, basta nos enviar o link do repositório _no seu GitHub_ onde você trabalhou na aplicação!
