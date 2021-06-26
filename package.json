@@ -1,7 +1,7 @@
 {
   "name": "devmobile",
   "version": "1.0.0",
-  "description": "Teste para os candidatos à vaga de Mobile dev Junior da IDGEo.",
+  "description": "",
   "scripts": {
     "start": "http-server -c-1 -p 8081 -o",
     "test": "echo \"Error: no test specified\" && exit 1"
